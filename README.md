@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/9f0d16f8-55e9-4289-bef8-91afd532007d)
+
+
+### Name: MATHESH S
+### Register Number: 212223230123
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
